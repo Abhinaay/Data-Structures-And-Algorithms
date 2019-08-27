@@ -5,7 +5,3 @@ Problem1: You are given an array A[], Consisting of N non-negative integers.
 	  Such that if all elements of this sub array are represented in Binary Notation and Concatenated to form
 	  binary string, then number of one's in the resulting string is alteast K
 
-Problem2: Suppose you are given an array A[1..n] of sorted integers that has been circularly shifted k positions 
-	  to the right. for example A[32,34,5,15,27,29] is sorted array that has been circularly shifted k=2 positions
-	  while A[27,29,32,34,5,15] has been shifted k=4 positions.
-	  We can obviously find the k element in A in order of n times. Describe order of log n Algorithm.
